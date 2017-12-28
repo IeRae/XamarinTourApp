@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="TodoREST.TodoItemPage" 
+			 Title="Todo">
+	<StackLayout Margin="20" VerticalOptions="StartAndExpand">
+		<Label Text="축제명" />
+		<Label x:Name="nameEntry" Text="{Binding Path=title}"  />
+		<Label Text="시작일" />
+		<Label x:Name="startEntry" Text="{Binding Path=eventstartdate}" />
+		<Label Text="종료일" />
+        <Label x:Name="endEntry" Text="{Binding Path=eventenddate}" />
+        <Label Text="주소" />
+        <Label x:Name="address" Text="{Binding Path=addr1}" />
+        <Image x:Name="img" Source="{Binding Path=firstimage}" />
+	</StackLayout>
+</ContentPage>

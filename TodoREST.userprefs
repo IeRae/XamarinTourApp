@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E648100F-B4E1-4AB7-AAA8-55B66DFFD821}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoREST/Data/IRestService.cs">
+    <Files>
+      <File FileName="TodoREST/Views/TodoListPage.xaml.cs" Line="38" Column="63" />
+      <File FileName="TodoREST/Views/TodoListPage.xaml" Line="31" Column="19" />
+      <File FileName="TodoREST/Data/RestService.cs" Line="29" Column="72" />
+      <File FileName="TodoREST/Constants.cs" Line="16" Column="61" />
+      <File FileName="TodoREST/TodoREST.cs" Line="9" Column="26" />
+      <File FileName="TodoREST/Models/TodoItem.cs" Line="24" Column="41" />
+      <File FileName="Droid/MainActivity.cs" Line="13" Column="34" />
+      <File FileName="TodoREST/Views/TodoItemPage.xaml" Line="18" Column="1" />
+      <File FileName="TodoREST/Views/TodoItemPage.xaml.cs" Line="13" Column="21" />
+      <File FileName="TodoREST/obj/Debug/TodoREST.Views.TodoItemPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="TodoREST/packages.config" Line="8" Column="12" />
+      <File FileName="TodoREST/ITextToSpeech.cs" Line="1" Column="1" />
+      <File FileName="Droid/app.config" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iOS/app.config" Line="1" Column="1" />
+      <File FileName="iOS/Entitlements.plist" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/Main.cs" Line="17" Column="18" />
+      <File FileName="iOS/packages.config" Line="1" Column="1" />
+      <File FileName="iOS/Speech.cs" Line="1" Column="1" />
+      <File FileName="TodoREST/Data/TodoItemManager.cs" Line="18" Column="42" />
+      <File FileName="TodoREST/Data/IRestService.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TodoREST.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.TodoREST.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MultiItemStartupConfigurations />
+</Properties>
